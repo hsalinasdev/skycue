@@ -1,0 +1,85 @@
+/*UNIVERSALS*/
+.white-text{
+  color: white;
+}
+
+
+/*LANDING PAGE*/
+
+
+#landing{
+  height: 1300px;
+  background-color: #25b8e5;
+}
+
+
+#landing-logo{
+  width: 40%;
+  margin-top: 300px;
+}
+
+/*index section*/
+
+#index{
+  height: 1200px;
+  background-color: darkblue;
+  padding-top: 240px;
+}
+
+
+.index-labels{
+  width: 55%;
+  padding-top: 30px;
+}
+
+#top-logo{
+  height: 70px;
+  margin-top: -350px;
+}
+
+
+/*PORTFOLIO SECTION*/
+
+#portfolio{
+  height: 1200px;
+  background-color: darkgreen;
+  padding-top:75px;
+}
+
+#port-label{
+  height:70px;
+  margin:25px;
+}
+
+#port-logo{
+  height: 70px;
+  margin-top: -20px;
+}
+
+.thumb-margin{
+  margin-top: 60px;
+}
+
+.port-img{
+  height:275px;
+}
+/*CONTACT SECTION*/
+
+
+
+form{
+  background-color: #darkred;
+  padding:15px;
+}
+
+#contact-text{
+  margin-bottom: 25px;
+  font-size: 2em;
+}
+
+
+#contact{
+  height: 1600px;
+  background-color: darkred;
+  padding-top:75px;
+}
