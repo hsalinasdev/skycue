@@ -22,7 +22,7 @@
 
 #index{
   height: 1200px;
-  background-color: darkblue;
+  background-color: #21a2ca;
   padding-top: 240px;
 }
 
@@ -42,7 +42,7 @@
 
 #portfolio{
   height: 1200px;
-  background-color: darkgreen;
+  background-color: #1a81a0;
   padding-top:75px;
 }
 
@@ -79,7 +79,8 @@ form{
 
 
 #contact{
-  height: 1600px;
-  background-color: darkred;
+  height: auto;
+  background-color: #16718d;
   padding-top:75px;
+  padding-bottom: 100px;
 }
